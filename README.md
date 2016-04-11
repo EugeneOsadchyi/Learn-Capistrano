@@ -2,7 +2,6 @@
 
 This is my project to learn, how to work with Capistrano
 
----
 
 ## Prepare server
 
